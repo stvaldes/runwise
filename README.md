@@ -4,8 +4,8 @@ Welcome to RunWise! This project is a work in progress and aims to provide vario
 
 ## Features
 
-- 🏃‍♂️ **Average Speed Calculator**: Enter your distance and time to calculate your average speed.
-- ⚡ **More features coming soon!** Stay tuned for additional tools to enhance your running experience.
+- **Average Speed Calculator**: Enter your distance and time to calculate your average speed.
+- **More features coming soon!** Stay tuned for additional tools to enhance your running experience.
 
 ## Tech Stack
 
@@ -20,7 +20,7 @@ To run the project locally, follow these steps:
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/swalstab/runwise.git
+   git clone https://github.com/stvaldes/runwise.git
    cd runwise
    ```
 
@@ -32,7 +32,7 @@ To run the project locally, follow these steps:
 
 3. **Start the development server:**
    ```sh
-   npm start
+   npm run dev
    ```
    This will launch the application in your default browser.
 
